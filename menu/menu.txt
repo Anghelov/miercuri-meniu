@@ -6,5 +6,6 @@ cereals
 omlette
 pancakes
 quick bean
+rump steak
 salad
 shaorma cu de toate
