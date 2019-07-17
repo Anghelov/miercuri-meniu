@@ -1,3 +1,5 @@
 Sample menu
 -----------
 pancakes
+
+beef hamburgers
