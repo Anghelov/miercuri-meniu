@@ -1,5 +1,7 @@
 Sample menu
 -----------
 pancakes
-quick bean
+
 shaorma cu de toate
+beef hamburgers
+omletteomlettequick bean
