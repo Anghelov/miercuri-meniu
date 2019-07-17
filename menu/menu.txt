@@ -4,5 +4,6 @@ pancakes
 cereals
 quick bean
 omlette
+salad
 shaorma cu de toate
 beef hamburgers
