@@ -2,6 +2,7 @@ Sample menu
 -----------
 apple pie
 beef hamburgers
+chocolate
 cereals
 ciorba de pui a la grec
 grilled chicken breast
