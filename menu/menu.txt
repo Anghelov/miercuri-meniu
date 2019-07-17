@@ -3,6 +3,7 @@ Sample menu
 apple pie
 beef hamburgers
 cereals
+mac&cheese
 omlette
 pancakes
 quick bean
