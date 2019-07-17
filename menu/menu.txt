@@ -4,4 +4,5 @@ pancakes
 
 shaorma cu de toate
 beef hamburgers
-omletteomlettequick bean
+omlette
+quick bean
