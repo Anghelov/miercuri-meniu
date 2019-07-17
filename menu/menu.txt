@@ -1,4 +1,4 @@
 Sample menu
 -----------
 pancakes
-quick bean
+omlettequick bean
