@@ -1,3 +1,4 @@
 Sample menu
 -----------
 pancakes
+quick bean
