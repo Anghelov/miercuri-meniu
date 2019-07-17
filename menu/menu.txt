@@ -2,6 +2,7 @@ Sample menu
 -----------
 apple pie
 beef hamburgers
+chocolate
 cereals
 grilled chicken breast
 omlette
