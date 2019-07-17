@@ -1,8 +1,9 @@
 Sample menu
 -----------
 pancakes
-omlette
+cereals
 quick bean
+omlette
 salad
 shaorma cu de toate
 beef hamburgers
