@@ -1,9 +1,10 @@
 Sample menu
 -----------
 pancakes
-
-beef hamburgers
 omlette
 quick bean
+salad
+shaorma cu de toate
+beef hamburgers
 apple pie
 
