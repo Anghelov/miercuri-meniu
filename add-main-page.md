@@ -1,7 +1,7 @@
 # A warm welcome to our Miercuri-Restaurant
 
-## To book a table you can checkout the reservation page.
+##To book a table you can checkout the reservation page which we currently dont have :)
+##But no worries come here anyway and you will be surprised by our magnificent staff!
+--------------------------------------------------------------------------------------
 
-#### [Specialties Page](specialties.md)
-
-#### [About Page](about.md)
+##[You can find here some of your finest specialities](specialities.md)
