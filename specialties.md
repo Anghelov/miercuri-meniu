@@ -2,8 +2,8 @@
 
 These are our very nice specialties
 
-## Traditional
+## [Placinta cu mere](./specialties/placinta_cu_mere.md)
 
-## Deserts
+## [Lava Cake](./specialties/lava_cake.md)
 
-## Drinks
+## [Cuba Libre](./specialties/cuba_libre.md)

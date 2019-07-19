@@ -1,6 +1,6 @@
-#**Speciality2**
+# **Speciality2**
 
-##Chocolate Lava Cake
+## Chocolate Lava Cake
 
 1. 1/2 cup (100 grams) granulated sugar, plus more for coating ramekins
 2. 8 ounces (227 grams) semisweet chocolate, chopped
@@ -13,4 +13,4 @@
 9. Fresh raspberries or strawberries
 10.	Powdered sugar, for garnish 
 
-Go to [Specialities Page](C:\Users\andreea.fiterau\Cursuri\CursGit\Curs3\specialties.md)
+![Lava Cake](images\lava cake.jpeg)
