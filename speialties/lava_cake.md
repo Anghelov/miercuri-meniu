@@ -13,4 +13,4 @@
 9. Fresh raspberries or strawberries
 10.	Powdered sugar, for garnish 
 
-Go to [Specialities Page](C:\Users\andreea.fiterau\Cursuri\CursGit\Curs3\specialties.md)
+![Lava Cake](images\lava cake.jpeg)
