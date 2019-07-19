@@ -13,4 +13,4 @@
 9. Fresh raspberries or strawberries
 10.	Powdered sugar, for garnish 
 
-![Lava Cake](images\lava cake.jpeg)
+![Lava Cake](..\images\lava cake.jpg)
