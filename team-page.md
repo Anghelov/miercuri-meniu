@@ -7,7 +7,7 @@ Apprentices : *James Beard , Rachael Ray, Emeril Lagassee & Mario Batali*
 Waiters : *Martin Yan , Wolfgang Garten , Ming Tsai & Alain Ducasse*
 
 
-![][images/team.jfif]
+![Team Image][./images/team.jfif]
 			
 			
 			
