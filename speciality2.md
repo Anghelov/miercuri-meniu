@@ -1,6 +1,6 @@
-#**Speciality2**
+# **Speciality2**
 
-##Chocolate Lava Cake
+## Chocolate Lava Cake
 
 1. 1/2 cup (100 grams) granulated sugar, plus more for coating ramekins
 2. 8 ounces (227 grams) semisweet chocolate, chopped

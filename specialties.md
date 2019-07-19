@@ -6,4 +6,4 @@ These are our very nice specialties
 
 ## Deserts
 
-## Drinks
+## [Drinks](specialty3.md)
