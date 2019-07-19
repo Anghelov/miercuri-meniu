@@ -2,8 +2,8 @@
 
 These are our very nice specialties
 
-## [Placinta cu mere](placintacumere.md)
+## [Placinta cu mere](./specialties/placinta_cu_mere.md)
 
-## [Lava Cake](speciality2.md)
+## [Lava Cake](./specialties/lava_cake.md)
 
-## [Cuba Libre](cubalibre.md)
+## [Cuba Libre](./specialties/cuba_libre.md)
